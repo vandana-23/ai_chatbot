@@ -1,0 +1,173 @@
+Company Name: Goklyn Private Limited
+Tagline: Empowering Innovation with Trust, Intelligence, and Security.
+
+Description:
+Goklyn Private Limited is an emerging IT services and consultancy company that blends technology, creativity, and intelligence to build secure and scalable digital ecosystems. We aim to redefine how businesses adopt and trust technology by offering intelligent, secure, and future-ready solutions.
+
+Founded By: Monika Sharma
+Founded Year: 2025
+Headquarters: Jaipur, Rajasthan, India
+Type: Private IT Services and Consulting Company
+
+Founder & CEO: Monika Sharma
+Chief Operational Officer: Harsh Saini
+Project Manager: Ravindra Yadav
+Cybersecurity Specialist: Monika Sharma
+Full Stack Developer: Suresh Chelani
+
+Company Vision:
+To be a global technology company recognized for innovation, trust, and intelligent digital transformation.
+
+Company Mission:
+- Deliver high-quality IT solutions that enable innovation and growth.
+- Integrate AI, cybersecurity, and quantum computing into real-world business ecosystems.
+- Nurture research and collaboration in future technologies.
+- Empower young minds to build a secure and intelligent digital future.
+
+Core Values: Integrity, Innovation, Empowerment, Security, Sustainability, Customer-Centricity.
+
+Industries Served:
+- Startups
+- Education
+- Fintech
+- Manufacturing
+- E-commerce
+- Research Institutions
+
+What Makes Goklyn Different:
+- Innovation-first approach with security at the core.
+- Integration of AI, cybersecurity, and quantum technology.
+- In-house research and development wing.
+- Flexible engagement models for startups and enterprises.
+- Strong focus on ethical and privacy-first solutions.
+
+Technologies & Tools:
+- Programming: Python, JavaScript, Node.js, Django, React, Next.js
+- AI & ML: TensorFlow, PyTorch, Hugging Face, OpenCV, NLP systems
+- Cybersecurity: SIEM, VAPT, Threat Intelligence, Zero Trust Security
+- Cloud Platforms: AWS, Azure, Google Cloud
+- Databases: MySQL, PostgreSQL, MongoDB
+- DevOps: CI/CD Pipelines, GitHub Actions, Docker, Kubernetes
+
+Services:
+1. Web Development & Design:
+   - Custom websites, web apps, e-commerce solutions
+   - Responsive, SEO-optimized UI/UX
+   - CMS integration (WordPress, React, Next.js)
+
+2. Software Development:
+   - Enterprise-grade software solutions
+   - SaaS platforms and automation tools
+   - CRM and ERP systems
+
+3. Cybersecurity & SIEM Solutions:
+   - VAPT, SIEM implementation and management
+   - Threat intelligence and incident response
+   - Network monitoring and data protection
+
+4. AI, ML & Automation:
+   - AI chatbots and conversational AI
+   - Predictive analytics and NLP systems
+   - Computer vision and recommendation engines
+
+5. Cloud & IT Consulting:
+   - Cloud migration (AWS, Azure, GCP)
+   - Infrastructure optimization and security
+   - DevOps setup and automation
+
+6. Research & Innovation:
+   - Quantum communication and cryptography
+   - Post-quantum research and collaboration
+   - AI ethics and privacy research
+
+Additional Services:
+- UI/UX Design Studio
+- Data Engineering Solutions
+- API Development and Integration
+- Mobile App Development
+- Smart Infrastructure & IoT Solutions
+
+Internships & Career:
+Goklyn offers internships and training programs in AI, Cybersecurity, Web Development, Cloud Computing, and UI/UX Design. We focus on hands-on learning, real projects, and mentorship from industry experts.
+
+Research & Development Wing:
+Goklyn R&D focuses on quantum-safe cryptography, secure AI systems, and decentralized architectures. Our research team collaborates with academic institutions and startups to build future-ready solutions.
+
+Partnerships:
+- Collaborations with tech communities and universities.
+- Industry partnerships with cybersecurity and AI-focused startups.
+- Supporting early-stage founders through tech consulting.
+
+Achievements:
+- Recognized as one of the Top Emerging IT Startups of 2025.
+- Developed multiple AI solutions for healthcare and fintech.
+- Conducted national-level workshops on AI & Cybersecurity.
+- Successfully implemented secure cloud infrastructure for enterprise clients.
+
+Future Goals:
+- Expand globally with branches in Europe and the US.
+- Launch Goklyn Labs — a dedicated innovation hub.
+- Build quantum-safe AI systems for enterprises.
+- Train 10,000 students and professionals through Goklyn Academy.
+
+Company Policies:
+
+Privacy Policy:
+- All client data is encrypted and used only for service improvement.
+- We do not share information without consent.
+
+Refund & Cancellation Policy:
+- Full refund within 3 days if work hasn’t started.
+- Partial refund based on project progress.
+
+Terms of Service:
+- All engagements require a written agreement.
+- Intellectual property transfers after full payment.
+
+Data Security Policy:
+- Regular audits and penetration testing.
+- Access controls and encryption for all systems.
+- Zero Trust Architecture for internal infrastructure.
+
+FAQs:
+Q: Who is the founder/CEO of Goklyn?
+A: Monika Sharma
+
+Q: Who is the project manager of Goklyn?
+A: Ravindra Yadav
+
+Q: What industries does Goklyn serve?
+A: Startups, healthcare, education, fintech, manufacturing, and more.
+
+Q: What makes Goklyn different?
+A: Innovation, security, and research-driven solutions integrating AI and quantum technology.
+
+Q: Do you provide maintenance and support?
+A: Yes, we provide full maintenance and technical support after project delivery.
+
+Q: Does Goklyn offer internships?
+A: Yes, we provide internships in AI, Cybersecurity, and Web Development.
+
+Q: Is client data safe with Goklyn?
+A: Absolutely. We follow strict encryption and privacy policies.
+
+Q: What services does Goklyn offer?
+A: Web Development, Software Development, Cybersecurity, AI & ML solutions, Cloud Consulting, and Research & Innovation.
+
+Q: Where is Goklyn headquartered?
+A: Jaipur, Rajasthan, India.
+
+Q: When was Goklyn founded?
+A: Goklyn was founded in 2025.
+
+Q: What is Goklyn’s vision?
+A: To be a global technology company recognized for innovation, trust, and intelligent digital transformation.
+
+Q: Who are the key team members?
+A: Monika Sharma (CEO), Harsh Saini (COO), Ravindra Yadav (PM), Suresh Chelani (Full Stack Dev).
+
+Q: Where is Goklyn?
+A: Jaipur, Rajasthan, India.
+
+Q: How to reach Goklyn?
+A: you have to go jaipur, Rajsthan, India.

@@ -1,0 +1,13 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+torch>=2.0
+transformers>=4.30
+sentence-transformers
+chromadb
+langchain
+pandas
+tqdm
+pypdf
+accelerate
+bitsandbytes

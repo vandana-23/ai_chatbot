@@ -39,19 +39,6 @@
 # #     remove_unused_columns=False,
 # #     report_to="none",
 # # )
-# args = TrainingArguments(
-#     output_dir=str(OUT_DIR),
-#     per_device_train_batch_size=1,
-#     gradient_accumulation_steps=2,
-#     num_train_epochs=5,
-#     logging_steps=5,
-#     save_strategy="epoch",
-#     fp16=False,
-#     remove_unused_columns=False,
-#     learning_rate=5e-5,
-#     warmup_steps=20,
-#     report_to="none",
-# )
 
 
 # trainer = Trainer(

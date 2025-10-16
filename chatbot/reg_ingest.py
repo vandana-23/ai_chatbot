@@ -10,7 +10,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 DB_DIR = os.path.join(BASE, "vector_db")
 Path(DB_DIR).mkdir(parents=True, exist_ok=True)
 
-EMBED_MODEL = "sentence-transformers/all-mpnet-base-v2"  # ✅ better embeddings
+EMBED_MODEL = "sentence-transformers/all-mpnet-base-v2" 
 
 def build_vector_db(file_path):
     print(f"Loading file: {file_path}")
@@ -35,7 +35,6 @@ def build_vector_db(file_path):
     print("✅ Vector DB successfully created and saved.")
 
 if __name__ == "__main__":
-    # Example usage
-    # Place your company FAQ or docs in a `data/` folder
+   
     file_path = os.path.join(BASE, "./data/company_data.txt")
     build_vector_db(file_path)

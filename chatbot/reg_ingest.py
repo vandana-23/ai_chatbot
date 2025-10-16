@@ -1,4 +1,4 @@
-# rag_ingest.py
+
 import os
 from pathlib import Path
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -32,7 +32,7 @@ def build_vector_db(file_path):
         persist_directory=DB_DIR
     )
     
-    print("✅ Vector DB successfully created and saved.")
+    print(" Vector DB successfully created and saved.")
 
 if __name__ == "__main__":
    

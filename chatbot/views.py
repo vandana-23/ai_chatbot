@@ -47,7 +47,7 @@ def chat_response(request):
         logger.exception("Chain execution failed")
         return Response({"error": f"Chain execution failed: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
-    # Normalize result fields across different LangChain versions
+    
     answer = result.get("result") or result.get("answer") or result.get("output_text") or ""
     source_docs = result.get("source_documents", []) or []
 
